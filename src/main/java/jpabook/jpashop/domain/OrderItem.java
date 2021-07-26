@@ -38,6 +38,22 @@ public class OrderItem {
         this.id = id;
     }
 
+    /*public Long getOrderId() {
+        return orderId;
+    }
+
+    public void setOrderId(Long orderId) {
+        this.orderId = orderId;
+    }
+
+    public Long getItemId() {
+        return itemId;
+    }
+
+    public void setItemId(Long itemId) {
+        this.itemId = itemId;
+    }*/
+
     public Order getOrder() {
         return order;
     }
